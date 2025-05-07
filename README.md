@@ -1,5 +1,7 @@
 ## Hello World! I'm Syahrul Ramdani 👋
 
+![Header](img/github-header-image.png)
+
 <!--
 **mochsyahrulramdani/mochsyahrulramdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
