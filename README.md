@@ -5,16 +5,7 @@
 <!--
 **mochsyahrulramdani/mochsyahrulramdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
@@ -23,38 +14,22 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel&theme=light)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
 #### Connect with me
 
 ![https://instagram.com/asryvyl](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-
 #### My Github Stats
 
 ![Syahrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mochsyahrulramdani&show_icons=true&theme=gruvbox)
 
-
 <h2 align="left">Playing games with me</h2>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mochsyahrulramdani/mochsyahrulramdani/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mochsyahrulramdani/mochsyahrulramdani/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mochsyahrulramdani/mochsyahrulramdani/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
 <img src="https://raw.githubusercontent.com/mochsyahrulramdani/mochsyahrulramdani/output/snake.svg" alt="Snake animation" />
 
 ###
-
 
 ![Damn](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3E4NjdqZjZ2cnV5ZmtnODJ4eXBsc2VsdWVkd2ZqY2owdDA4OWR1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r1HGFou3mUwMw/giphy.gif)
